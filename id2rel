@@ -1,0 +1,40 @@
+P31	instance of	that class of which this subject is a particular example and member	object	object
+P1412	languages spoken, written or signed	language(s) that a person or a people speaks, writes or signs, including the native language(s)	person	language
+P106	occupation	occupation of a person; see also "field of work" (Property:P101), "position held" (Property:P39)	person	occupation
+P19	place of birth	most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character	person	location
+P131	located in the administrative territorial entity	located in the administrative territorial entity	location	location
+P171	parent taxon	closest parent taxon of the taxon in question	object	object
+P641	sport	sport that the subject participates or participated in or is associated with	person	event
+P105	taxon rank	level in a taxonomic hierarchy	object	object
+P136	genre	creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic	art	art
+P57	director	director(s) of film, TV-series, stageplay, video game or similar	art	person
+P17	country	sovereign state of this item (not to be used for human beings)	org	location
+P161	cast member	actor in the subject production [use "character role" (P453) and/or "name of the character role" (P4633) as qualifiers] [use "voice actor" (P725) for voice-only role]	art	person
+P413	position played on team / speciality	position or specialism of a player on a team	person	occupation
+P20	place of death	most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character	person	location
+P27	country of citizenship	the object is a country that recognizes the subject as its citizen	person	location
+P175	performer	actor, musician, band or other performer associated with this role or musical work	art	org
+P196	minor planet group	is in grouping of minor planets according to similar orbital characteristics	object	object
+P276	location	location of the object, structure or event. In the case of an administrative entity as containing item use P131 for statistical entities P8138. In the case of a geographic entity use P706. Use P7153 for locations associated with the object.	org	location
+P54	member of sports team	sports teams or clubs that the subject currently represents or formerly represented	person	org
+P50	author	main creator(s) of a written work (use on works, not humans); use P2093 when Wikidata item is unknown or does not exist	art	person
+P1344	participant in	event in which a person or organization was/is a participant; inverse of P710 or P1923	person	org
+P159	headquarters location	city, where an organization's headquarters is or has been situated. Use P276 qualifier for specific building	org	location
+P364	original language of film or TV show	language in which a film or a performance work was originally created. Deprecated for written works and songs; use P407 ("language of work or name") instead.	art	language
+P361	part of	object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A). Inverse property of "has part" (P527, see also "has parts of the class" (P2670)).	object	object
+P407	language of work or name	language associated with this creative work (such as books, shows, songs, or websites) or a name (for persons use "native language" (P103) and "languages spoken, written or signed" (P1412))	art	language
+P123	publisher	organization or person responsible for publishing books, periodicals, printed music, podcasts, games or software	art	org
+P138	named after	entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier "applies to name" (P5168) can be used to indicate which one	object	person
+P400	platform	platform for which a work was developed or released, or the specific platform version of a software product	art	org
+P495	country of origin	country of origin of this item (creative work, food, phrase, product, etc.)	art	location
+P279	subclass of	next higher class or type; all instances of these items are instances of those items; this item is a class (subset) of that item. Not to be confused with P31 (instance of)	object	object
+P102	member of political party	the political party of which this politician is or has been a member or otherwise affiliated	person	org
+P108	employer	person or organization for which the subject works or worked	person	org
+P264	record label	brand and trademark associated with the marketing of subject music recordings and music videos	art	org
+P931	place served by transport hub	territorial entity or entities served by this transport hub (airport, train station, etc.)	org	location
+P39	position held	subject currently or formerly holds the object position or public office	person	occupation
+P607	conflict	battles, wars or other military engagements in which the person or item participated	person	event
+P527	has part	part of this subject; inverse property of "part of" (P361). See also "has parts of the class" (P2670).	object	object
+P137	operator	person, profession, or organization that operates the equipment, facility, or service	org	org
+P241	military branch	branch to which this military unit, award, office, or person belongs, e.g. Royal Navy	person	org
+P118	league	league in which team or player plays or has played in	person	org
