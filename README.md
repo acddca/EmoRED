@@ -1,2 +1,2 @@
 # EmoRED
-Maintaining
+Dataset for emoticon-infused relation extraction. Please be aware that this dataset is intended for research purposes only, and the sample content does not convey any political or religious connotations. After constructing the samples, each sentence's syntax has been thoroughly examined by both ChatGPT and crowd workers to eliminate any syntax errors. However, should you encounter any syntax errors while using the dataset, please do not hesitate to report them.
